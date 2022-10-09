@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhakar Reddy</h1>
 <h3 align="center">Data Analyst</h3>
+<img class="align" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 
 - 🔭 I’m currently working on **Data Analytics**
 
@@ -10,7 +11,7 @@
 - 💬 Ask me about **Data Science, Tableau, Business Objects**
 
 - 📫 How to reach me **tsudhakarreddy@gmail.com**
-<img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
